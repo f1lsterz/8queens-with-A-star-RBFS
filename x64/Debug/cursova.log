@@ -1,0 +1,85 @@
+﻿  Button.cpp
+D:\prog texts\c++ vs\cursova\Button.cpp(11,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Button.cpp(11,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Button.cpp(52,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Button.cpp(52,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Button.cpp(54,33): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\prog texts\c++ vs\cursova\Button.cpp(54,26): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\prog texts\c++ vs\cursova\Button.cpp(55,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Button.cpp(55,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Button.cpp(73,24): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\prog texts\c++ vs\cursova\Button.cpp(73,21): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\prog texts\c++ vs\cursova\Button.cpp(78,28): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\prog texts\c++ vs\cursova\Button.cpp(78,21): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\prog texts\c++ vs\cursova\Button.cpp(85,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Button.cpp(85,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Button.cpp(92,37): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\prog texts\c++ vs\cursova\Button.cpp(92,30): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\prog texts\c++ vs\cursova\Button.cpp(99,37): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\prog texts\c++ vs\cursova\Button.cpp(99,30): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  File.cpp
+  Interface.cpp
+D:\prog texts\c++ vs\cursova\Interface.cpp(82,65): warning C4244: аргумент: преобразование "const double" в "unsigned int", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Interface.cpp(82,47): warning C4244: аргумент: преобразование "const double" в "unsigned int", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Interface.cpp(96,49): warning C4305: аргумент: усечение из "const double" в "float"
+D:\prog texts\c++ vs\cursova\Interface.cpp(101,55): warning C4305: аргумент: усечение из "const double" в "float"
+D:\prog texts\c++ vs\cursova\Interface.cpp(105,56): warning C4305: аргумент: усечение из "const double" в "float"
+D:\prog texts\c++ vs\cursova\Interface.cpp(109,53): warning C4305: аргумент: усечение из "const double" в "float"
+D:\prog texts\c++ vs\cursova\Interface.cpp(113,53): warning C4305: аргумент: усечение из "const double" в "float"
+D:\prog texts\c++ vs\cursova\Interface.cpp(124,38): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Interface.cpp(124,30): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Interface.cpp(129,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Interface.cpp(172,69): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Interface.cpp(172,62): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Interface.cpp(177,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Interface.cpp(178,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Interface.cpp(180,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Interface.cpp(180,50): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Interface.cpp(194,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\prog texts\c++ vs\cursova\Interface.cpp(197,81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Interface.cpp(197,74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Interface.cpp(225,81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\prog texts\c++ vs\cursova\Interface.cpp(225,74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+  Создание кода...
+  cursova.vcxproj -> D:\prog texts\c++ vs\cursova\x64\Debug\cursova.exe

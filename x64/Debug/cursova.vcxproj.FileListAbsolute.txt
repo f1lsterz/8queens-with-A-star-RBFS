@@ -1,0 +1,11 @@
+D:\prog texts\c++ vs\cursova\x64\Debug\cursova.vcxproj.CopyComplete
+D:\prog texts\c++ vs\cursova\x64\Debug\cursova.exe
+D:\prog texts\c++ vs\cursova\x64\Debug\sfml-graphics-d-2.dll
+D:\prog texts\c++ vs\cursova\x64\Debug\sfml-window-d-2.dll
+D:\prog texts\c++ vs\cursova\x64\Debug\sfml-system-d-2.dll
+D:\prog texts\c++ vs\cursova\x64\Debug\freetyped.dll
+D:\prog texts\c++ vs\cursova\x64\Debug\zlibd1.dll
+D:\prog texts\c++ vs\cursova\x64\Debug\bz2d.dll
+D:\prog texts\c++ vs\cursova\x64\Debug\libpng16d.dll
+D:\prog texts\c++ vs\cursova\x64\Debug\brotlidec.dll
+D:\prog texts\c++ vs\cursova\x64\Debug\brotlicommon.dll
